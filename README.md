@@ -14,7 +14,7 @@ To download all library/package that will be needed:
 2. Move to your root folder
 3. Run `julia requirement.jl`
 
-## Topics
+## Topics [issues](https://docs.google.com/spreadsheets/d/1M4-D0soYZ_OVZvEGfmrbzJkyAEfLO8gcqS1rHZCqa1w/edit?usp=sharing)
 
 Here are the topics in this repository:
 
