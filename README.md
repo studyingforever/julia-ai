@@ -22,3 +22,5 @@ Here are the topics in this repository:
 2. Linear Regression (2019-08-03)
 3. Multiple Linear Regression (2019-08-03)
 4. Gradient Descent Evolutions (2019-08-10)
+5. Principal Component Analysis (2019-08-10)
+6. K-Means Clustering (2019-08-24)

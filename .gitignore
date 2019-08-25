@@ -1,0 +1,2 @@
+#Ignore all K-Means Result (gif, png, csv)
+K-Means Result.*
