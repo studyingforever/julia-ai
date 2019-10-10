@@ -24,3 +24,6 @@ Here are the topics in this repository:
 4. Gradient Descent Evolutions (2019-08-10)
 5. Principal Component Analysis (2019-08-10)
 6. K-Means Clustering (2019-08-24)
+7. Decision Tree
+8. Ensemble Learning
+9. KNN (2019-10-08)
